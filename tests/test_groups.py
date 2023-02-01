@@ -2,7 +2,7 @@ from itertools import chain
 
 import pytest
 
-from pytest_test_groups import get_group
+from pytest_test_grouping import get_group
 
 
 def test_group_is_the_proper_size():
